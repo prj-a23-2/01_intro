@@ -1,1 +1,2 @@
 Here is my second file.
+It, too, is a wonderful file.
